@@ -140,7 +140,9 @@ nav>ol {
     background: #FFF;
     padding: 46px 33px;
 }
-
+.box-2{
+    position: relative;
+}
 .img-class {
     display: flex;
     justify-content: center;
@@ -152,7 +154,13 @@ nav>ol {
     margin-bottom: 35px;
 
 }
-
+.hand{
+    width: 36px;
+height: 54px;
+position:absolute; 
+left:289px; 
+top:489px; 
+}
 .img-class img {
     height: 36px;
     width: 36px;
@@ -166,8 +174,8 @@ nav>ol {
 
 .box-3>.img-class {
     background: #EB5757;
-    ;
 }
+
 
 .services h2 {
     color: #333;
