@@ -123,7 +123,7 @@ nav>ol {
     color: #333;
     font-size: 36px;
     margin-bottom: 42px;
-    
+
 }
 
 .services {
@@ -140,9 +140,11 @@ nav>ol {
     background: #FFF;
     padding: 46px 33px;
 }
-.box-2{
+
+.box-2 {
     position: relative;
 }
+
 .img-class {
     display: flex;
     justify-content: center;
@@ -154,18 +156,20 @@ nav>ol {
     margin-bottom: 35px;
 
 }
-.hand{
+
+.hand {
     width: 36px;
-height: 54px;
-position:absolute; 
-left:289px; 
-top:489px; 
+    height: 54px;
+    position: absolute;
+    left: 289px;
+    top: 489px;
 }
+
 .img-class img {
     height: 36px;
     width: 36px;
     /* filter: invert(100%) sepia(51%) saturate(2%) hue-rotate(30deg) brightness(106%) contrast(101%); */
-    
+
 }
 
 .box-2>.img-class {
@@ -205,7 +209,8 @@ top:489px;
     font-size: 16px;
     color: #828282;
 }
-.box-2>button{
+
+.box-2>button {
     background: #2D9CDB;
     color: white;
 }
